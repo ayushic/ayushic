@@ -10,7 +10,7 @@ I'm a data enthusiast and finding ways to work on latest data challenges and lea
 
 I have completed my Master's in Quantitative Finance and Risk Analytics from Rensselaer Polytechnic Institute. I have a Bachelor's in Engineering - Information Technology from D.J Sanghvi College of Engineering, Mumbai.
 
-I can be reached at chudgor.ayushi@gmail.com for collaboration on data projects.
+I can be reached at chudgor.ayushi@gmail.com for collaboration on data projects or opportunities.
 
 <!--
 **ayushic/ayushic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
