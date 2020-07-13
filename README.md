@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello, Welcome to Ayushi's bio!
+
+
+
+Technical Skillset: Python, SQL, Agile, JIRA, Machine Learning, Natural Language Processing, Project Management
 
 <!--
 **ayushic/ayushic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
