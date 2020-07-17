@@ -6,7 +6,7 @@ I am currently working on building a recommender system using Amazon open datase
 
 **Technical Skillset:** Python, SQL, Tableau, Machine Learning, Natural Language Processing, Statistics, R, Agile, JIRA, Project Management, Product & Data Operations
 
-I'm a data enthusiast and finding ways to work on latest data challenges and learning new data techniques. When I am not working on solving a data challenge, you will find me either travelling or experimenting a new recipe in the kitchen. I love Indian and Italian food!
+I'm a data enthusiast and finding ways to work on latest data challenges and learning new data techniques. When I am not working on solving a data challenge, you will find me either travelling or experimenting a new recipes in the kitchen. I love Indian and Italian food!
 
 I have completed my Master's in Quantitative Finance and Risk Analytics from Rensselaer Polytechnic Institute. I have a Bachelor's in Engineering - Information Technology from D.J Sanghvi College of Engineering, Mumbai.
 
