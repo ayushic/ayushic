@@ -1,6 +1,4 @@
-### Hello, Welcome to my page!
-
-Over the past year, I worked as a Data Engineer/Analyst at a Fintech Saas firm in NYC. I worked on developing an automation tool to monitor data feeds from 200+ data sources for 1000+ financial services B2B customers in Python. I performed root casue analysis for optimizing data feeds, led quality assurance (QA) and testing of migrated data through data modeling and transformations in Informatica Cloud and have a proven track record to streamline migration experience from legacy to new product and worked on user stories for business intelligence dashboards using product and project management principles. I carried out data analysis and developed reports for senior leadership and provided actionable recommendations. 
+### Hello, Welcome to my page! 
 
 Over the past year, I worked as a Data Engineer/Analyst at a Fintech Saas firm in NYC. I worked on developing an automation tool to monitor data feeds from 200+ data sources for 1000+ financial services B2B customers in Python. I performed root casue analysis for optimizing data feeds, led quality assurance (QA) and testing of migrated data through data modeling and transformations in Informatica Cloud and have a proven track record to streamline migration experience from legacy to new product and worked on user stories for business intelligence dashboards using product and project management principles. I carried out data analysis and developed reports for senior leadership and provided actionable recommendations. 
 
